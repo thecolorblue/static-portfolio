@@ -1,0 +1,10 @@
+/* IE css */
+body{
+height:1000px;
+background:#000 url(images/ie/background4.png) no-repeat;
+overflow-x:hidden;
+}
+.something {
+position:static;
+background:transparent;
+}
